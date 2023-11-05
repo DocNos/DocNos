@@ -13,3 +13,4 @@ Unity, C#
 ### [Genetic evolution on marbles with perceptron learning](https://github.com/DocNos/GeneticEvolution_PLA-Marbles)
 Unreal 5, C++
 ### [Rust](https://github.com/DocNos/rpsBot) [Experiments](https://github.com/DocNos/NosEngine)
+Learning Rust from the best teacher - the Rust compilier.
