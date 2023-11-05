@@ -9,5 +9,5 @@ Current technical director for Black Hole Syndicate.
 ## Projects
 ### [Procedurally generated top-down shooter - Shotgun Squid](https://github.com/DocNos/NosEngine) 
 Unity, C#
-
+### [Genetic evolution on marbles with perceptron learning](https://github.com/DocNos/GeneticEvolution_PLA-Marbles)
 
