@@ -1,4 +1,4 @@
-# Osie Varboncoeur
+# Osprey "Nixx" Varboncoeur
 [![Static Badge](https://img.shields.io/badge/Game%20Projects-maker?logo=unrealengine&labelColor=%23498cad&color=%23b900ff)
 ](https://www.docnosv.com/)
 
