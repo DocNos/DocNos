@@ -7,7 +7,7 @@
 
 Hello! I am a Systems Design & Game Engine Architecture student with a passion for video games.
 
-Current technical director for Black Hole Syndicate.
+Currently exploring capacity for emotional intelligence, agency, and self-reflection in Artifical Intelligence systems.
 
 
 ## Projects
