@@ -5,7 +5,7 @@
 [![résumé](https://img.shields.io/static/v1?&color=ccff90&label=&labelColor=424242&logo=libreoffice&logoColor=fff&message=résumé&&style=flat-square)](./_OspreyVarboncoeur_CurrentResume.pdf)
 [![linkedin](https://img.shields.io/static/v1?&color=2867b2&label=&labelColor=424242&logo=linkedin&logoColor=fff&message=linkedin&&style=flat-square)](https://www.linkedin.com/in/harmonixsymphony/)
 
-Hello! I am a Systems Design & Game Engine Architecture student with a passion for video games.
+Hello! I am a Systems Design & Game Engine Architecture Graduate with a passion for video games.
 
 Currently exploring capacity for emotional intelligence, agency, and self-reflection in Artifical Intelligence systems.
 
